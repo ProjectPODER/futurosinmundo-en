@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " es" }}">
+
+{%- include head.html -%}
+
+<body class="d-flex flex-column min-vh-100 bg-general">
+  {%- if site.top_menu -%}
+  {%- include header.html -%}
+  {%- endif -%}
+  {{ content }}
+</body>
+
+</html>
