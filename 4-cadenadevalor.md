@@ -1,17 +1,25 @@
 ---
 layout: page
-title: Cadena de valor
-permalink: /cadena-de-valor/
+title: Smoke-less?
+permalink: /smoke-less/
 ---
 
-# CADENA DE VALOR DE LOS PRODUCTOS DE TABACO CALENTADO
+# IMPACTS OF HEATED TOBACCO DEVICE PRODUCTION
 
-En este apartado se busca presentar un balance sobre los beneficios que plantea la campaña de marketing de los productos de tabaco calentado IQOS frente a los efectos que tiene la producción de estos producto en la tierra, el territorio y los derechos humanos, sobre todo a partir de la extracción y utilización en su cadena de suministro de metales que pueden ser considerados conflictivos como el tungsteno, oro, tantalio y estaño, además de metales que tienen impactos importantes como el litio para la producción de baterías.
+The following interactive infographic shows some of the potential impacts that could be associated with the different stages of the HTP production chain (to view information on suppliers and impacts, move the cursor over each link in the chain).
 
-La evaluación de impacto de los productos de tabaco calentado se basan en varios aspectos: por una parte, la cadena de valor relacionada con la producción de las unidades de tabaco también conocidas como HeatSticks, su vinculación con el consumo de energía, agua y tierra para su producción.1
+The production of tobacco heating devices is linked to the manufacturing and extractive industries, mainly mining, because it requires metallic and non-metallic minerals, some of them critical minerals, i.e. those that are essential for the energy transition and its impact on the development of countries, such as germanium, boron, gallium and arsenic. Also needed are gold, platinum and tungsten among others that are necessary for the production of microprocessors or semiconductors and electronic circuits. Heated tobacco products include a ceramic heating foil containing gold and platinum (PMI-IQOS).
 
-Por otra parte se encuentra la producción de los dispositivos para el calentado de tabaco que están vinculados con la industria manufacturera y la utilización de metales considerados conflictivos. Para ello nos basaremos en los dispuesto por la Commission Recommendation (EU) 2018/1149 of 10 August 2018 on non-binding guidelines for the identification of conflict-affected and high-risk areas and other supply chain risks under Regulation (EU) 2017/821 of the European Parliament and of the Council.
+Some minerals used in the production of electronic devices are considered conflict minerals, including tin, tungsten, tantalum and gold. These are raw materials that are often mined illegally and without state control in conflict regions or high-risk areas such as the Democratic Republic of Congo or one of its neighboring countries, where violations of human rights and international law are closely linked to this activity. The extraction of these minerals can sometimes be used for the purpose of financing armed conflicts in some countries. Since 2014, companies registered in the United States are required to file an annual report with the SEC on whether they use any of the conflict minerals.
 
-Actualmente se cuenta con una base de datos que ha identificado una lista de proveedores de estos metales en distintos países, (véase archivo adjunto). El desarrollo de la investigación busca identificar riesgos asociados con las empresas proveedoras, además de apuntar los impactos que tienen la actividad extractiva de esos metales para los derechos humanos de las comunidades que viven en los puntos de extracción.
+PMI has published a list of suppliers of these metals in different countries. We identified the associated risks and impacts that the extractive activity of these metals has on the human rights of the communities living in the extraction sites. Among the main ones are: deterioration of the environment, water scarcity, contamination of aquifers and, consequently, deterioration of the health of indigenous peoples and communities. Likewise, the lack of prior, free and informed consultation for the development of many of these extractive projects, the criminalization of environmental and human rights defenders, violence, child exploitation, displacement and the financing of armed conflicts, among others.
 
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AH-PMI" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/65dcb0189fec8e001497ae37" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AH-PMI" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/666c7f0491ca340014517c12" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br>
+
+## TOBACCO PRODUCTION RELATED IMPACTS
+
+{:.image-post}
+![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/diagrama2.png)
+
+The HTP supply chain, like others based on the intensive exploitation of natural goods, is a business that deepens an extractivist model in which, paradoxically, the countries that consume the least products, in this case HTPs, are those where the environmental and social liabilities and the consequences of human rights violations remain and are felt most acutely.

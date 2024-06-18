@@ -14,14 +14,14 @@
 # Puedes crear cualquier variable personalizada que desees y será accesible
 # en las plantillas a través de {{site.myvariable}}.
 
-title: Futuro sin mundo
+title: WORLD-LESS FUTURE
 
 # Imagen del logo
-image: tb-logo.png
+image:
 
 #Descripción de tu sitio
 description: >-
-  Actualmente los productos libres de humo representan casi una tercera parte de los ingresos totales de Philip Morris. Dentro de ellos, las ventas las encabezan los productos de tabaco calentado bajo la marca IQOS con cerca de 25 millones de personas usuarias alrededor del mundo, con sus principales mercados en países del norte global como Europa y Japón. IQOS ha sido introducido al mercado con una estrategia de marketing que consume el 74 por ciento de los gastos comerciales de productos libres de humo de PMI y son la apuesta central de la empresa para los próximos años.
+  Heated tobacco products are marketed through a marketing strategy that presents them as reduced-risk and therefore less harmful devices. However, their production is complex and highly dependent on an industry that generates environmental, health and human rights impacts. This information is hidden due to the lack of transparency and complexity of their supply chain and is essential for people to make more informed decisions.
 
 
 # Activa el menu de arriba: true o false
@@ -123,7 +123,7 @@ show_excerpts: true
 future: true
 
 # Configura el lenguaje de las fechas en las páginas de publicaciones (es/en).
-date-language: "es"
+date-language: "en"
 
 # Configura el formato de las fechas en las páginas de publicaciones.
 # Otros formatos: "%a, %b %d, %y" | "%Y" | "%b %d, %y" | "%Y-%m-%d %H:%M"

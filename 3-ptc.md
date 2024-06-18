@@ -1,19 +1,26 @@
 ---
 layout: page
-title: Tabaco calentado
-permalink: /tabaco-calentado/
+title: Electronic devices
+permalink: /electronic-devices/
 ---
-# RADIOGRAFÍA DE LOS PRODUCTOS DE TABACO CALENTADO
+# HEATED TOBACCO PRODUCT RADIOGRAPHY
 
-Estos dispositivos utilizan dos sistemas de calentamiento: HeatControl Technology y Smartcore Induction System
-
-Ambos dispositivos se componen de tres elementos: el calentador, el cargador y las unidades de tabaco, también denominadas Heatsticks. Estas unidades de tabaco son más pequeñas que
-los cigarros tradicionales y se comercializan con distintos sabores, son calentadas de manera eléctrica para liberar un aerosol.
+Since 2014, electronic devices, in partícular HTPs, have gradually gained larger spaces in the tobacco consumption market. By 2022, their sale and distribution had spread to 73 countries around the world. 4 The number of users globally has grown by an average of 18% per year, from 17.6 million users in 2020 5 to 21.2 million in 2021 6 , while by 2022 about 24.9 million people are reported to be using some the IQOS product.
 
 
 {:.image-post}
-![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/diagramanuevoparaTB.png)
+![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/graph1.png)
 
-El calentador es un dispositivo electrónico que contiene una lamina de cerámica y metal donde se coloca la unidad de tabaco y la calienta a una temperatura controlada que evita quemarlo
-para producir un aerosol de nicotina, a través de una batería de iones de litio de 120 mAh. El cargador de bolsillo contiene una batería de iones de litio de 2900 mAh que suministra
-energía al calentador.
+Heated tobacco devices consist of three elements: the heater, the charger and the tobacco units, also called Heatsticks. These tobacco units are smaller than traditional cigars and are marketed with different aromas, flavors and intensities. Their production, unlike cigars, involves subjecting the tobacco to an additional grinding process to be mixed with water, glycerin, fibers and guar gum (PMI-Science).
+
+{:.image-post}
+![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/tobaccounits.png)
+
+The heater is an electronic device composed mainly of a microcontroller chip capable of storing and transmitting information. It also contains a metal foil with traces of gold and platinum, where the tobacco unit is placed and heated to a controlled temperature to produce a nicotine aerosol. It is powered by a rechargeable lithium-ion battery (PMI-IQOS).
+The pocket charger consists of a housing, an electronic board with various microcomponents such as microcontrollers and a charger for the 2900 mAh lithium-ion battery, which in turn supplies power to the heater.
+
+
+{:.image-post}
+![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/diagrama.png)
+
+Some materials used in the production of electronic circuits and microprocessors are germanium, boron, gallium and arsenic, as well as gold or platinum, which can be contained in IQOS heating foils. Its production requires rechargeable lithium-ion batteries, both the one located in the heater and the one located in the charger, which in turn allows recharging the heater when it has already been used in at least two tobacco units. Some minerals required for the production of lithium batteries are cobalt, nickel, manganese and graphite.

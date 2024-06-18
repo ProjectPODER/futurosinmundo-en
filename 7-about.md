@@ -1,28 +1,31 @@
 ---
 layout: page
-title: Sobre el proyecto
-permalink: /sobre-el-proyecto/
+title: About
+permalink: /about/
 ---
 
-# Quiénes somos
+# ABOUT
 
-Futuro Sin Mundo es un proyecto de datos, investigación y periodismo de PODER para transparentar información sobre los beneficiarios reales y la cadena de suministro de los productos de tabaco calentado. El objetivo es aportar información desde una mirada crítica que brinde información sobre los principales impactos de la manufactura de estos productos y las decisiones en torno a su venta en México esté sustentada.
+## Who we are
 
-## Metodología
+Futuro Sin Mundo is a data, research and journalism project of PODER to make transparent information about the real beneficiaries and the supply chain of heated tobacco products. The objective is to provide information from a critical point of view on the main impacts of the manufacture of these products and that decisions regarding their commercialization in Mexico are supported by evidence.
 
-Todas las afirmaciones aquí publicadas se encuentran debidamente justificadas en los informes anuales, financieros y de sustentabilidad de las empresas, informes ante la Securities Exchange Commission, el Diario Oficial de la Federación y el Registro Público de Comercio. Además se consultaron informes y trabajos académicos que se encuentran debidamente referenciados en el reporte de investigación y el reportaje periodístico.
+This project has been produced with the help of a grant from Vital Strategies on behalf of Bloomberg Philantropies. The contents of this site are the sole responsibility of the authors and can under no circumstances be regarded as reflecting the positions of the donors.
 
-## Visualización y micrositio
+## Methodology
+All the statements published herein are duly substantiated with information from the companies' annual, financial and sustainability reports, reports filed with the Securities Exchange Commission, the Official Journal of the Federation and the Public Registry of Commerce. In addition, reports and academic papers were consulted and are duly referenced in the research report and the journalistic report.
 
-El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos. Está pensado para seguir el dinero y conocer las estructuras corporativas, se ha usado anteriormente para el monitoreo de grandes obras públicas como en TorreDeControl.org, privadas como en La Nueva Amenaza de Grupo México y en la compra de medicamentos como en VivirConVIH.org.
+## Visualization & microsite:
+The project uses the Tower Builder system, created by PODER, to generate websites with data visualizations. It is designed to follow money and corporate structures, and has been used previously to monitor large public works such as The Business of the Mayan Train, private works such as The New Threat of Grupo Mexico and the purchase of medicines and vaccines such as Living with HIV and The Business of Vaccines$.
 
-## Créditos
+## Credits:
 
-    Investigación: Daniel Castrejón y Oscar Pineda.
-    Periodismo: Ricardo Balderas.
-    Desarrollo: Marisol Carrillo.
-    Diseño editorial e ilustración: Adrián Sánchez Martínez.
-    Comunicación: Mariela Álvarez Alatriste.
-    Coordinación de Comunicación Externa: Paulina Souza.
-    Dirección del proyecto: Oscar Pineda.
-    Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
+- Research: Daniel Castrejón and Óscar Pineda
+- Journalism: Ricardo Balderas
+- Development: Marisol Carrillo
+- Edition & Illustration: Adrián Sánchez
+- Communication: Mariela Álvarez
+- External Communication Coordination: Paulina Souza
+- Project Coordination: Óscar Pineda
+- Research Direction: Julieta Lamberti
+- Executive Co-Direction: Elena Arengo and Fernanda Hopenhaym

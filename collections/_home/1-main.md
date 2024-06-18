@@ -12,16 +12,16 @@ two-columns-section: false
 media-left: false
 ---
 
-# FUTURO SIN MUNDO
+# WORLD-LESS FUTURE
 
 {:.main-text}
-Los productos de tabaco calentado se comercializan a través de una estrategia de mercadotecnia que los presenta como dispositivos de riesgo reducido y, por consiguiente, menos dañinos. No obstante, su producción es compleja y altamente dependiente de una industria que genera impactos al medio ambiente, la salud y los derechos humanos. Esa información se encuentra oculta entre la falta de transparencia y la complejidad de su cadena de suministros, y es esencial para que las personas tomen decisiones más informadas.
+Heated tobacco products are marketed through a marketing strategy that presents them as reduced-risk and therefore less harmful devices. However, their production is complex and highly dependent on an industry that generates environmental, health and human rights impacts. This information is hidden due to the lack of transparency and complexity of their supply chain and is essential for people to make more informed decisions.
 
 
-[Análisis corporativo](/analisis-corporativo/)
-[Tabaco calentado](/tabaco-calentado/)
-[Cadena de Valor](/cadena-de-valor/)
-[Informe](/informe/)
+[Phillip Morris](/phillip-morris/)
+[Electronic devices](/electronic-devices/)
+[Smoke-less?](/smoke-less/)
+[The business of addiction](/the-business-of-addiction/)
 
 
 
