@@ -12,10 +12,10 @@ Tobacco companies claim that the elimination of combustion is an advantage of th
 This research shows that the addiction business based on over-mining for the production of heated tobacco devices is not sustainable. There is a need for decision makers to question tobacco companies' claims about the benefits of PTCs and to promote greater oversight and regulation of these products. Tobacco companies must prioritize the protection and respect for human rights and the environment over their profits and stop trying to turn the laws that regulate them on their head.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/ElNegocioDeLaAdiccion_TabacoCalentado.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/The-business-of-addiction.pdf"></iframe>
 </div>
 <br>
 
 <div class="text-center mb-5">
-  <a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2024/04/ElNegocioDeLaAdiccion_TabacoCalentado.pdf" target="_blank" download>Download research</a>
+  <a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2024/06/The-business-of-addiction.pdf" target="_blank" download>Download research</a>
 </div>
