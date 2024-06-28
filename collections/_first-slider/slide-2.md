@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-iframe: https://onodo.org/visualizations/281755/embed/
+iframe: https://flo.uri.sh/visualisation/18530958/embed
 ---
 
 # PMI’s suppliers 2023
